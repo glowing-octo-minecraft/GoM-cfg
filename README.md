@@ -1,4 +1,4 @@
 GoM-cfg
 =======
 
-Glowing Octo Configs
+Here are our configs! They're versioned!
